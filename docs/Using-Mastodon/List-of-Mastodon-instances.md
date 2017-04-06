@@ -5,6 +5,7 @@ There is also a list at [instances.mastodon.xyz](https://instances.mastodon.xyz)
 
 | Name | Theme/Notes, if applicable | Open Registrations | IPv6 |
 | -------------|-------------|---|---|
+| [mastodon.audio](http://mastodon.social) |For music/audio creators|Yes|No|
 | [mastodon.social](https://mastodon.social) |Flagship, quick updates|No|No|
 | [securitymastod.one](https://securitymastod.one/) |Information security enthusiasts and pros|Yes|Yes|
 | [mastodon.cx](https://mastodon.cx/) |Alternative Mastodon instance hosted in France|Yes|Yes|
